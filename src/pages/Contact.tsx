@@ -24,7 +24,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Location</h3>
-                <p className="text-gray-600">San Francisco, CA</p>
+                <p className="text-gray-600">Ilorin, Nigeria</p>
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Follow Us</h3>

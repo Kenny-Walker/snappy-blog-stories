@@ -29,7 +29,7 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 mb-4">Get in Touch</h3>
             <p className="text-gray-600">
-              Email: hello@blogverse.com<br />
+              Email: obajimitofunmi29@gmail.com<br />
               Follow us on social media for updates.
             </p>
           </div>
