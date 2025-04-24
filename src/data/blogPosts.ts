@@ -32,7 +32,7 @@ export const blogPosts: BlogPost[] = [
     image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb",
     author: {
       name: "Marcus Rodriguez",
-      email: "m.rodriguez@ecoblog.com",
+      email: "marcus.rodriguez@ecoblog.com",
       avatar: "https://images.unsplash.com/photo-1472396961693-142e6e269027"
     },
     date: "April 23, 2025"
@@ -44,7 +44,7 @@ export const blogPosts: BlogPost[] = [
     image: "https://images.unsplash.com/photo-1493962853295-0fd70327578a",
     author: {
       name: "Emma Thompson",
-      email: "emma.t@photoblog.com",
+      email: "emma.thompson@photoblog.com",
       avatar: "https://images.unsplash.com/photo-1438565434616-3ef039228b15"
     },
     date: "April 22, 2025"
@@ -56,7 +56,7 @@ export const blogPosts: BlogPost[] = [
     image: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07",
     author: {
       name: "David Park",
-      email: "david.p@mindfulblog.com",
+      email: "david.park@mindfulblog.com",
       avatar: "https://images.unsplash.com/photo-1439886183900-e79ec0057170"
     },
     date: "April 21, 2025"
@@ -68,7 +68,7 @@ export const blogPosts: BlogPost[] = [
     image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e",
     author: {
       name: "Lisa Kumar",
-      email: "lisa.k@aiblog.com",
+      email: "lisa.kumar@aiblog.com",
       avatar: "https://images.unsplash.com/photo-1535268647677-300dbf3d78d1"
     },
     date: "April 20, 2025"

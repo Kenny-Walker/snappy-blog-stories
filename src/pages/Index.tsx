@@ -38,6 +38,7 @@ const Index = () => {
                       <p className="text-sm font-medium text-gray-900">
                         {post.author.name}
                       </p>
+                      <p className="text-sm text-gray-500">{post.author.email}</p>
                       <p className="text-sm text-gray-500">{post.date}</p>
                     </div>
                   </div>

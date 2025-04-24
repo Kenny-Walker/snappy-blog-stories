@@ -15,8 +15,12 @@ const Contact = () => {
             </p>
             <div className="space-y-6">
               <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-2">Name</h3>
+                <p className="text-gray-600">Obafemi Tofunmi</p>
+              </div>
+              <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Email</h3>
-                <p className="text-gray-600">hello@blogverse.com</p>
+                <p className="text-gray-600">obajimitofunmi29@gmail.com</p>
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">Location</h3>
